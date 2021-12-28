@@ -1,0 +1,228 @@
+{
+  "main": {
+    "name":"William Smith",
+    "description":"Full Stack Web, Blockchain/Web3/Solidity Developer",
+    "image":"profilepic.png",
+    "bio":"***  I will never stop working on the project until the client will be statisfied through my result.***      I'm a full stack web developer with years of experience under my belt (working as a web developer since 2014), mostly with WordPress/PHP, ReactJS/VueJS, Django/Flask/FastAPI. I have proven web development skills and lots of experience on various both front-end and back-end, WordPress-based projects. I also have a plenty of experience of team work, so I'm well familiar with team workflow and methodologies/tools used for that. Last five years, I worked as a solidity developer and developed and deployed various tokens, including BEP20, ERC20, ERC721, ERC1155, based on several Tokenomics such as DeFi, DEX, and Swap. Best Regards,",
+    "contactmessage":"Contact Me",
+    "email": "williamsmith71218@gmail.com",
+    "phone": "+1 229 469 5816",
+    "github":"https://github.com/fullstackdev63",
+    "project":"https://github.com/fullstackdev63/resume",
+    "address":{
+      "street":"639 E Shaw Ave",
+      "city":"Fresno",
+      "state":"California",
+      "zip": "93710"
+    },
+    "website": "https://william.topdreamworld.com",
+    "resumedownload":"https://william.topdreamworld.com/resume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"#",
+        "className":"fab fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/william-smith-45334b205/",
+        "className":"fab fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/fullstackdev63",
+        "className":"fab fa-github"
+      },
+      {
+        "name":"telegram",
+        "url":"https://t.me/fulldev71218",
+        "className":"fab fa-telegram"
+      },
+      {
+        "name":"skype",
+        "url":"https://github.com/fullstackdev63",
+        "className":"fab fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"California University of Management and Sciences",
+        "degree":"Master of Computer Applications - MCA",
+        "graduated":"2015",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"2local",
+        "title":"FullStack Web, Solidity Smart Contract Developer",
+        "years":"December 2020 - October 2021 (10 months)",
+        "description":"React, Web3, NodeJS, Laravel, Swap, NFT, ERC-20, Solidity"
+      },
+      {
+        "company":"Gosuac",
+        "title":"FullStack Web Developer",
+        "years":"July 2019 - January 2021 (1 year 6 months)",
+        "description":"Working on building the Websites for the clients of Gosuac company. Already built the NextJS project"
+      },
+      {
+        "company":"BON2 Media Services",
+        "title":"Live/VOD Streaming Developer",
+        "years":"October 2018 - October 2019 (1 year 1 month)",
+        "description":"Worked on implementing the Bon2 TV application for the multi-platforms (Android, AndroidTV, iOS, AppleTV) as a Live/VOD Streaming Engineer."
+      },
+      {
+        "company":"Freelancer.com",
+        "title":"Full Stack Web & Video Conference WebRTC Develope",
+        "years":"February 2014 - April 2017 (3 years 3 months)",
+        "description":"Worked on getting income with full stack web development"
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJS/NextJS/Gatsby",
+        "level":"100%"
+      },
+      {
+        "name":"VueJS/NuxtJS/Vuetify",
+        "level":"100%"
+      },
+      {
+        "name":"Material-UI",
+        "level":"100%"
+      },
+      {
+        "name":"TailwindCSS",
+        "level":"100%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"100%"
+      },
+      {
+        "name":"Django/Flask",
+        "level":"100%"
+      },
+      {
+        "name":"Laravel/CodeIgniter",
+        "level":"100%"
+      },
+      {
+        "name":"Blockchain",
+        "level":"95%"
+      },
+      {
+        "name":"Solidity",
+        "level":"100%"
+      },
+      {
+        "name":"Web3.js",
+        "level":"100%"
+      },
+      {
+        "name":"NFT",
+        "level":"90%"
+      },
+      {
+        "name":"DeFi",
+        "level":"90%"
+      },
+      {
+        "name":"AWS Console Management",
+        "level":"90%"
+      },
+      {
+        "name":"Google Cloud functions",
+        "level":"90%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      },
+      {
+        "name":"Database Porgraming(MySQL, PostgreSQL, Oracle)",
+        "level":"76%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects1": [
+      {
+        "title":"Pabau",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.PNG",
+        "url":"http://pabau.com"
+      },
+      {
+        "title":"Sportunity",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"07.PNG",
+        "url":"http://sportunity.com/ "
+      },
+      {
+        "title":"Eigobin",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"08.PNG",
+        "url":"https://www.eigobin.com/"
+      },
+      {
+        "title":"Uniclixapp",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"09.PNG",
+        "url":"http://uniclixapp.com"
+      },
+      {
+        "title":"Elliman",
+        "category":"A React based resume website template",
+        "image":"10.PNG",
+        "url":"https://www.elliman.com/"
+      },
+      {
+        "title":"Cliently",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"11.PNG",
+        "url":"http://cliently.com"
+      },
+      {
+        "title":"Paraisopueblo",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"12.PNG",
+        "url":"https://paraisopueblo.com/"
+      },
+      {
+        "title":"playbak",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"13.PNG",
+        "url":"https://playbak.io"
+      }      
+    ],
+    "projects2": [
+      {
+        "title":"Klee Finance",
+        "category":"1",
+        "image":"01.PNG",
+        "url":"http://klee.finance/"
+      },
+      {
+        "title":"Cooperplanet",
+        "category":"3",
+        "image":"03.PNG",
+        "url":"https://app.cooperplanet.io/"
+      },
+      {
+        "title":"Cryptozoon",
+        "category":"A React based resume website template",
+        "image":"04.PNG",
+        "url":"https://app.cryptozoon.io/"
+      },
+      {
+        "title":"Wavesducks",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.PNG",
+        "url":"https://wavesducks.com/"
+      } 
+    ]
+  }
+}
