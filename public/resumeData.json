@@ -1,19 +1,19 @@
 {
   "main": {
-    "name":"William Smith",
+    "name":"Houston Barrows",
     "description":"Full Stack Web, Blockchain/Web3/Solidity Developer",
     "image":"profilepic.png",
-    "bio":"***  I will never stop working on the project until the client will be statisfied through my result.***      I'm a full stack web developer with years of experience under my belt (working as a web developer since 2014), mostly with WordPress/PHP, ReactJS/VueJS, Django/Flask/FastAPI. I have proven web development skills and lots of experience on various both front-end and back-end, WordPress-based projects. I also have a plenty of experience of team work, so I'm well familiar with team workflow and methodologies/tools used for that. Last five years, I worked as a solidity developer and developed and deployed various tokens, including BEP20, ERC20, ERC721, ERC1155, based on several Tokenomics such as DeFi, DEX, and Swap. Best Regards,",
+    "bio":"Are you looking for an 'expert' blockchain developer that actually knows what he is talking about? Look, I know what you're probably going through right now: Perhaps you’re looking to create an NFT project, a new ICO or to customize a smart contract for your platform Now, the one thing that all of these solutions have in common is that they’re designed to fulfill an important need in your business. Ultimately, the reason why anyone decides to get involved into a blockchain project is to MAKE MONEY - whether that’s by creating the most popular NFT platform or by creating a cryptocurrency that will be used for transactions by millions of users Now maybe, you’re not really sure where to start. And perhaps, you’re not too sure that the “cheap” freelancers you see out there in Upwork will provide you with the best solution you are looking for right now See, there’s a big distinction between someone who just executes on requirements without keeping the end in mind… And a critical thinker, a seasoned specialist, who can think outside the box to provide you with the ***perfect*** solution your project needs right now. My name is Houston Barrows, and after working for more than 5 years in the blockchain business, I’ve come up with the perfect formula to create crypto projects that truly revolutionize the industry I’m talking about projects that fully leverage the power of cutting-edge technologies to create User Experiences that accurately fulfill any pressing need within your users with the most secure standards So, if you’re looking for a new crypto project, built with clean code, with a beautiful design, all built to take your business to the next level, you can contact me here and we can schedule a quick call.",
     "contactmessage":"Contact Me",
-    "email": "williamsmith71218@gmail.com",
-    "phone": "+1 229 469 5816",
+    "email": "houston.cryptodev@outlook.com, projsdev97@gmail.com",
+    "phone": "+1 716 222 2976",
     "github":"https://github.com/fullstackdev63",
     "project":"https://github.com/fullstackdev63/resume",
     "address":{
-      "street":"639 E Shaw Ave",
-      "city":"Fresno",
-      "state":"California",
-      "zip": "93710"
+      "street":"500 Columbia St W",
+      "city":"Kamloops",
+      "state":"British Columbia",
+      "zip": "V2C 6T6"
     },
     "website": "https://william.topdreamworld.com",
     "resumedownload":"https://william.topdreamworld.com/resume.pdf",
@@ -48,9 +48,9 @@
   "resume":{
     "education":[
       {
-        "school":"California University of Management and Sciences",
+        "school":"University of British Columbia",
         "degree":"Master of Computer Applications - MCA",
-        "graduated":"2015",
+        "graduated":"2017",
         "description":""
       }
     ],

@@ -46,11 +46,11 @@ class About extends Component {
                     <span><i className="fas fa-map-marker-alt"></i> {street}, {city}, {state} {zip}, United State</span>
                   </p>
                 </div>
-                <div className="columns download" style={{marginTop: '90px'}}>
+                {/* <div className="columns download" style={{marginTop: '90px'}}>
                   <p>
                     <a href={resumeDownload} target="_blank" style={{padding: '20px', background: '#3e3e3e', borderRadius: '5px'}}><i className="fas fa-download"></i> Download Resume</a>
                   </p>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
